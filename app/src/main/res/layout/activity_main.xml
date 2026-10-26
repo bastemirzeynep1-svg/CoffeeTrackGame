@@ -20,7 +20,7 @@
         android:id="@+id/text_count"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="İçilen Kahve: 0"
+        android:text="Coffee Count: 0"
         android:textSize="24sp"
         android:textColor="#3E2723"
         android:layout_marginBottom="32dp"/>
@@ -29,7 +29,7 @@
         android:id="@+id/btn_drink"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="KAHVE İÇ"
+        android:text="DRINK COFFEE"
         android:backgroundTint="#795548"
         android:textColor="#FFFFFF"
         android:textSize="20sp"/>
