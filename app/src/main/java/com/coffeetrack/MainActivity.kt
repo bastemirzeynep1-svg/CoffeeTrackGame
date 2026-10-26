@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         btnDrink.setOnClickListener {
             coffeeCount++
-            textCount.text = "İçilen Kahve: $coffeeCount"
+            textCount.text = "Coffee Count: $coffeeCount"
         }
     }
 }
